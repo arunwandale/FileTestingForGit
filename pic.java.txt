@@ -1,1 +1,1 @@
-pic.                            java
+pic.java
